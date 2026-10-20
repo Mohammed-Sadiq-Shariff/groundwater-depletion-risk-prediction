@@ -24,6 +24,7 @@
 \usepackage{multirow}
 \usepackage{array}
 \usepackage{url}
+\usepackage{xurl}
 \usepackage{hyperref}
 % \usepackage{balance}
 
@@ -605,7 +606,7 @@ the training period.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.72\columnwidth]{figures/fig_regression_scatter_residual.png}
+  \includegraphics[width=0.66\columnwidth]{figures/fig_regression_scatter_residual.png}
   \caption{Regression results on the held-out test set (N\,=\,657).
            (a) Actual vs.\ predicted GWL (mbgl) with y=x reference.
            (b) Residual plot; mean residual $-0.01$\,m indicates
@@ -615,7 +616,7 @@ the training period.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.62\columnwidth]{figures/fig_baseline_comparison.png}
+  \includegraphics[width=0.56\columnwidth]{figures/fig_baseline_comparison.png}
   \caption{Regression baseline comparison on the test set.
            HistGBT reduces MAE by 43\% vs.\ mean-target baseline
            and by 10\% vs.\ the persistence baseline.}
@@ -680,7 +681,7 @@ that would be operationally consequential.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.72\columnwidth]{figures/fig_confusion_matrix.png}
+  \includegraphics[width=0.66\columnwidth]{figures/fig_confusion_matrix.png}
   \caption{Random Forest confusion matrix --- test set (N\,=\,657).
            (a) Raw counts; (b) row-normalised fractions.
            Diagonal entries represent correct classifications.}
@@ -689,7 +690,7 @@ that would be operationally consequential.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.62\columnwidth]{figures/fig_class_performance.png}
+  \includegraphics[width=0.56\columnwidth]{figures/fig_class_performance.png}
   \caption{Per-class precision, recall, and F1-score for the
            Random Forest classifier.
            Support counts shown below class labels.}
@@ -716,7 +717,7 @@ evidence of harmful features.
 
 \begin{figure}[t]
   \centering
-  \includegraphics[width=0.48\columnwidth]{figures/fig_feature_importance.png}
+  \includegraphics[width=0.42\columnwidth]{figures/fig_feature_importance.png}
   \caption{Top-15 permutation feature importances (mean\,$\pm$\,std)
            for the regression model.
            Importance is defined as the decrease in R$^2$ upon
@@ -803,19 +804,10 @@ performance, outperforming both baselines on macro-F1 by factors of
 
 \subsection{Threats to Validity}
 
-\textbf{Internal validity}: The strictly chronological split with
-no overlap between train, validation, and test periods prevents
-temporal leakage. All lag and rolling features use only information
-available before the prediction date.
-\textbf{External validity}: Results may not generalise to other
-districts, aquifer types (fractured rock vs. alluvial), or
-monitoring protocols different from CGWB quarterly campaigns.
-\textbf{Construct validity}: The ``next observation'' horizon is
-driven by monitoring schedule rather than any operationally
-meaningful lead time. Decisions based on predictions require
-knowledge of when the next monitoring visit is planned.
+\textbf{Internal validity}: Chronological partitioning prevents temporal leakage; features strictly precede prediction dates.
+\textbf{External validity}: Findings may not generalize to disparate lithologies or non-quarterly monitoring protocols.
+\textbf{Construct validity}: The horizon reflects monitoring intervals rather than fixed operational lead times; decisions depend on known visit schedules.
 
-% ------------------------------------------------------------------
 \section{Conclusion and Future Work}
 \label{sec:conclusion}
 % ------------------------------------------------------------------
@@ -837,17 +829,22 @@ fixed-metre risk thresholds, sparse monitoring coverage, partial
 rainfall data, and low recall on the rare High-risk class.
 The system is presented as an exploratory decision-support
 prototype rather than an operational early-warning tool.
-Future work should: (1) validate risk thresholds against official
-CGWB groundwater-resource assessments; (2) incorporate aquifer-type
-and lithology covariates; (3) explore calibrated probabilistic
-outputs (e.g., conformal prediction); (4) evaluate interval-normalised
-change rates as alternative classification targets; and (5) extend
-the framework to adjacent districts with similar monitoring
-infrastructure.
+Future priorities include: (1) calibrating empirical risk boundaries against statutory CGWB extraction assessments; (2) incorporating hydrogeological lithology covariates; (3) exploring conformal uncertainty intervals; (4) evaluating interval-normalized drawdown rates; and (5) assessing transferability across adjacent peninsular river basins.
 
 % ------------------------------------------------------------------
 % REFERENCES
 % ------------------------------------------------------------------
+
+% ------------------------------------------------------------------
+\textbf{Data and Code Availability.}
+% ------------------------------------------------------------------
+The complete machine-learning pipelines, verification scripts,
+evaluation summaries, and full-stack web application are available
+at \url{https://github.com/Mohammed-Sadiq-Shariff/groundwater-depletion-risk-prediction}
+(commit \texttt{0272a78}, accessed 20~October~2026).
+Groundwater and rainfall records are hosted on the National
+Water Data Portal (NWDP).
+
 \bibliographystyle{IEEEtran}
 \bibliography{references}
 

@@ -109,8 +109,8 @@ Predicts 4-class depletion severity ($\Delta_t = \text{GWL}_{t+1} - \text{GWL}_t
 ### 1. Environment Installation
 ```bash
 # Clone the repository
-git clone https://github.com/<username>/groundwater-depletion-risk.git
-cd groundwater-depletion-risk
+git clone https://github.com/Mohammed-Sadiq-Shariff/groundwater-depletion-risk-prediction.git
+cd groundwater-depletion-risk-prediction
 
 # Create and activate virtual environment
 python -m venv .venv
