@@ -1,0 +1,658 @@
+Station,District,Latitude,Longitude,Monitoring Date,groundwater_level_m,depletion_risk,predicted_depletion_risk
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2019-11-11 06:00:00,13.58,No Depletion,High
+Kothanahalli,Mysore,11.925,76.56805556,2019-11-20 06:00:00,5.13,Moderate,Moderate
+Kethupura,Mysore,12.3,76.88805556,2019-11-28 06:00:00,0.96,Moderate,Moderate
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2019-11-30 03:00:00,7.23,High,High
+Alaguda,Mysore,12.20194444,76.91055556,2019-11-30 06:00:00,2.08,High,Low
+Anechowkur,Mysore,12.31388889,76.45277778,2019-11-30 06:00:00,2.42,Moderate,Moderate
+Attigod,Mysore,12.49166667,76.13611111,2019-11-30 06:00:00,23.5,No Depletion,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2019-11-30 06:00:00,4.8,Moderate,Moderate
+Beeredevanapura,Mysore,11.93361111,76.52583333,2019-11-30 06:00:00,1.92,High,Moderate
+Bettadapura,Mysore,12.09166667,76.51666667,2019-11-30 06:00:00,17.69,Low,Moderate
+Bevinahalli,Mysore,12.30666667,76.885,2019-11-30 06:00:00,1.9,Moderate,Low
+Bheerya-A,Mysore,12.5,76.26972222,2019-11-30 06:00:00,1.75,Low,Moderate
+Bylakuppe,Mysore,12.49166667,76.21111111,2019-11-30 06:00:00,4.08,Moderate,Moderate
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2019-11-30 06:00:00,1.26,Low,Low
+Chunchankatte,Mysore,12.50416667,76.29166667,2019-11-30 06:00:00,6.35,Low,Moderate
+Depuru,Mysore,12.4625,76.07305556,2019-11-30 06:00:00,4.35,Moderate,High
+Deveerammanahalli,Mysore,12.26666667,76.66666667,2019-11-30 06:00:00,2.05,Low,Moderate
+Gandhigrama,Mysore,12.11527778,76.60166667,2019-11-30 06:00:00,1.8,Moderate,Moderate
+Gargeswari,Mysore,12.5,76.35,2019-11-30 06:00:00,6.35,No Depletion,High
+Gowdagere,Mysore,12.19166667,76.375,2019-11-30 06:00:00,0.84,Low,Moderate
+Guluru,Mysore,12.11111111,76.70555556,2019-11-30 06:00:00,0.6,High,Low
+Heggadevanakote,Mysore,12.18333333,76.275,2019-11-30 06:00:00,3.99,No Depletion,Moderate
+Hejjodlu,Mysore,12.37972222,76.37361111,2019-11-30 06:00:00,11.52,No Depletion,High
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2019-11-30 06:00:00,9.5,High,High
+Hullahalli,Mysore,12.095,76.66888889,2019-11-30 06:00:00,3.13,Moderate,Moderate
+Hunsur1,Mysore,12.30833333,76.29166667,2019-11-30 06:00:00,9.16,Low,Moderate
+Ibjala,Mysore,12.11277778,76.44694444,2019-11-30 06:00:00,2.25,Moderate,Moderate
+Kahalli,Mysore,12.16361111,76.84111111,2019-11-30 06:00:00,6.75,Moderate,High
+Kalasthavadi,Mysore,12.36111111,76.66111111,2019-11-30 06:00:00,1.7,High,High
+Kannenuru,Mysore,12.09722222,76.51388889,2019-11-30 06:00:00,3.55,Moderate,High
+Kittur,Mysore,12.47777778,76.1,2019-11-30 06:00:00,2.27,Moderate,Moderate
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2019-11-30 06:00:00,2.3,Moderate,High
+Konasuru,Mysore,12.44805556,76.07111111,2019-11-30 06:00:00,1.28,Low,Low
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2019-11-30 06:00:00,5.76,Moderate,Moderate
+Motha,Mysore,12.09444444,76.47777778,2019-11-30 06:00:00,1.95,No Depletion,Low
+Mullur,Mysore,11.98388889,76.46666667,2019-11-30 06:00:00,11.51,No Depletion,High
+Mysore,Mysore,12.3,76.64166667,2019-11-30 06:00:00,11.18,Low,Moderate
+Palya,Mysore,12.095,76.66888889,2019-11-30 06:00:00,0.77,Moderate,Moderate
+Piriyapatna,Mysore,12.33333333,76.1,2019-11-30 06:00:00,8.43,Moderate,Moderate
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2019-11-30 06:00:00,1.66,Moderate,Moderate
+Rathnapuri,Mysore,12.23888889,76.34166667,2019-11-30 06:00:00,2.51,Low,Low
+Saragur,Mysore,12.12083333,76.46666667,2019-11-30 06:00:00,4.73,Moderate,Moderate
+Siddalingapura,Mysore,12.35833333,76.66111111,2019-11-30 06:00:00,1.45,Moderate,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2019-11-30 06:00:00,2.05,High,High
+Thandavapura,Mysore,12.175,76.725,2019-11-30 06:00:00,11.04,Moderate,High
+Vidyapitha,Mysore,12.10555556,76.70833333,2019-11-30 06:00:00,1.78,Low,Low
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2019-11-30 06:00:00,0.23,Low,Low
+Alaguda,Mysore,12.20194444,76.91055556,2020-11-30 00:00:00,1.58,Moderate,Low
+Allampur,Mysore,12.13083333,76.74,2020-11-30 00:00:00,2.15,Low,Low
+Anechowkur,Mysore,12.31388889,76.45277778,2020-11-30 00:00:00,2.68,Moderate,Low
+Attigod,Mysore,12.49166667,76.13611111,2020-11-30 00:00:00,18.8,High,High
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2020-11-30 00:00:00,4.1,Moderate,Moderate
+Bannur,Mysore,12.31666667,76.85,2020-11-30 00:00:00,2.5,Low,Low
+Beeredevanapura,Mysore,11.93361111,76.52583333,2020-11-30 00:00:00,5.85,Moderate,Low
+Bettadapura,Mysore,12.09166667,76.51666667,2020-11-30 00:00:00,17.69,No Depletion,High
+Bettdapura,Mysore,12.47083333,76.10833333,2020-11-30 00:00:00,10.1,High,High
+Bevinahalli,Mysore,12.30666667,76.885,2020-11-30 00:00:00,1.15,High,Low
+Bheerya-A,Mysore,12.5,76.26972222,2020-11-30 00:00:00,2.75,Moderate,Moderate
+Bylakuppe,Mysore,12.49166667,76.21111111,2020-11-30 00:00:00,4.22,No Depletion,Low
+Chamundibetta,Mysore,12.5625,76.25861111,2020-11-30 00:00:00,4.02,High,Moderate
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2020-11-30 00:00:00,0.53,Moderate,Low
+Depuru,Mysore,12.4625,76.07305556,2020-11-30 00:00:00,5.82,No Depletion,Low
+Deviramanahalli,Mysore,12.10277778,76.67777778,2020-11-30 00:00:00,2.55,No Depletion,Low
+Gandhigrama,Mysore,12.11527778,76.60166667,2020-11-30 00:00:00,2.87,Moderate,Low
+Gargeswari,Mysore,12.5,76.35,2020-11-30 00:00:00,7.12,High,High
+Gowdagere,Mysore,12.19166667,76.375,2020-11-30 00:00:00,8.07,Low,Low
+Guluru,Mysore,12.11111111,76.70555556,2020-11-30 00:00:00,0.65,Low,Low
+Hampapur,Mysore,12.12083333,76.46666667,2020-11-30 00:00:00,2.55,Moderate,Moderate
+Hanagodu,Mysore,12.14166667,76.29166667,2020-11-30 00:00:00,0.84,Low,Moderate
+Heggadadevanakote-A,Mysore,12.09055556,76.32972222,2020-11-30 00:00:00,6.2,No Depletion,Moderate
+Hejjodlu,Mysore,12.37972222,76.37361111,2020-11-30 00:00:00,12.7,Low,High
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2020-11-30 00:00:00,8.3,High,High
+Hullahalli,Mysore,12.095,76.66888889,2020-11-30 00:00:00,4.59,Moderate,Moderate
+Hunsur A,Mysore,12.30555556,76.275,2020-11-30 00:00:00,2.5,Low,Low
+Hunsur1,Mysore,12.30833333,76.29166667,2020-11-30 00:00:00,11.22,Moderate,Low
+Hunugunahalli,Mysore,12.25472222,76.91055556,2020-11-30 00:00:00,0.6,Low,Low
+Ibjala,Mysore,12.11277778,76.44694444,2020-11-30 00:00:00,2.85,Low,Low
+Kahalli,Mysore,12.16361111,76.84111111,2020-11-30 00:00:00,8.06,Moderate,Moderate
+Kalasthavadi,Mysore,12.36111111,76.66111111,2020-11-30 00:00:00,1.45,Low,High
+Kamalapura,Mysore,12.33333333,76.10833333,2020-11-30 00:00:00,2.8,Low,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2020-11-30 00:00:00,3.85,High,Low
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2020-11-30 00:00:00,11.69,Moderate,High
+Kethupura,Mysore,12.3,76.88805556,2020-11-30 00:00:00,1.0,No Depletion,Low
+Kittur,Mysore,12.47777778,76.1,2020-11-30 00:00:00,4.33,Low,Low
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2020-11-30 00:00:00,3.8,Moderate,Low
+Konasuru,Mysore,12.44805556,76.07111111,2020-11-30 00:00:00,1.3,Low,Low
+Kothanahalli,Mysore,11.925,76.56805556,2020-11-30 00:00:00,6.81,Low,Low
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2020-11-30 00:00:00,7.3,Moderate,High
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2020-11-30 00:00:00,6.3,No Depletion,Moderate
+Motha,Mysore,12.09444444,76.47777778,2020-11-30 00:00:00,1.0,Low,Low
+Muguru1,Mysore,12.33611111,76.16111111,2020-11-30 00:00:00,5.4,No Depletion,Moderate
+Mullur,Mysore,11.98388889,76.46666667,2020-11-30 00:00:00,13.72,Moderate,Low
+Mulluru,Mysore,11.98333333,76.47916667,2020-11-30 00:00:00,10.32,Moderate,Low
+Mysore,Mysore,12.3,76.64166667,2020-11-30 00:00:00,9.96,Low,Moderate
+Palya,Mysore,12.095,76.66888889,2020-11-30 00:00:00,0.93,Moderate,Low
+Piriyapatna,Mysore,12.33333333,76.1,2020-11-30 00:00:00,8.71,Moderate,Moderate
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2020-11-30 00:00:00,2.85,Moderate,Moderate
+Ranganathapura,Mysore,12.425,76.0,2020-11-30 00:00:00,1.75,Low,Low
+Saligrama,Mysore,12.55,76.25,2020-11-30 00:00:00,5.45,Moderate,Moderate
+Saragur,Mysore,12.12083333,76.46666667,2020-11-30 00:00:00,5.72,Low,Low
+Shiriyur,Mysore,12.38222222,76.39416667,2020-11-30 00:00:00,11.16,Moderate,High
+Siddalingapura,Mysore,12.35833333,76.66111111,2020-11-30 00:00:00,1.29,Low,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2020-11-30 00:00:00,2.5,High,High
+Thandavapura,Mysore,12.175,76.725,2020-11-30 00:00:00,13.85,No Depletion,Moderate
+Varuna,Mysore,12.26722222,76.74527778,2020-11-30 00:00:00,1.5,High,Low
+Vidyapitha,Mysore,12.10555556,76.70833333,2020-11-30 00:00:00,1.95,Low,Low
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2020-11-30 00:00:00,0.38,Low,Low
+Alaguda,Mysore,12.20194444,76.91055556,2021-08-31 06:00:00,2.28,No Depletion,No Depletion
+Allampur,Mysore,12.13083333,76.74,2021-08-31 06:00:00,3.13,No Depletion,No Depletion
+Anechowkur,Mysore,12.31388889,76.45277778,2021-08-31 06:00:00,5.78,No Depletion,No Depletion
+Attigod,Mysore,12.49166667,76.13611111,2021-08-31 06:00:00,23.5,No Depletion,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2021-08-31 06:00:00,6.05,No Depletion,No Depletion
+Bannur,Mysore,12.31666667,76.85,2021-08-31 06:00:00,3.37,No Depletion,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2021-08-31 06:00:00,3.88,No Depletion,No Depletion
+Bettadapura,Mysore,12.09166667,76.51666667,2021-08-31 06:00:00,17.69,No Depletion,No Depletion
+Bettdapura,Mysore,12.47083333,76.10833333,2021-08-31 06:00:00,15.57,No Depletion,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2021-08-31 06:00:00,3.3,No Depletion,No Depletion
+Bheerya-A,Mysore,12.5,76.26972222,2021-08-31 06:00:00,3.0,No Depletion,No Depletion
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2021-08-31 06:00:00,2.18,No Depletion,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2021-08-31 06:00:00,4.27,No Depletion,No Depletion
+Depuru,Mysore,12.4625,76.07305556,2021-08-31 06:00:00,5.22,No Depletion,No Depletion
+Deviramanahalli,Mysore,12.10277778,76.67777778,2021-08-31 06:00:00,1.43,No Depletion,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2021-08-31 06:00:00,4.1,No Depletion,No Depletion
+Gargeswari,Mysore,12.5,76.35,2021-08-31 06:00:00,12.75,No Depletion,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2021-08-31 06:00:00,1.52,No Depletion,No Depletion
+Hampapur,Mysore,12.12083333,76.46666667,2021-08-31 06:00:00,2.8,Low,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2021-08-31 06:00:00,1.25,No Depletion,No Depletion
+Heggadadevanakote,Mysore,12.1,76.33333333,2021-08-31 06:00:00,12.23,No Depletion,No Depletion
+Hejjodlu,Mysore,12.37972222,76.37361111,2021-08-31 06:00:00,16.01,No Depletion,No Depletion
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2021-08-31 06:00:00,19.75,No Depletion,No Depletion
+Hullahalli,Mysore,12.095,76.66888889,2021-08-31 06:00:00,14.69,No Depletion,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2021-08-31 06:00:00,3.32,No Depletion,No Depletion
+Hunsur1,Mysore,12.30833333,76.29166667,2021-08-31 06:00:00,15.19,No Depletion,No Depletion
+Hunugunahalli,Mysore,12.25472222,76.91055556,2021-08-31 06:00:00,7.34,No Depletion,No Depletion
+Ibjala,Mysore,12.11277778,76.44694444,2021-08-31 06:00:00,6.6,No Depletion,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2021-08-31 06:00:00,12.25,No Depletion,No Depletion
+Kalasthavadi,Mysore,12.36111111,76.66111111,2021-08-31 06:00:00,5.22,No Depletion,No Depletion
+Kamalapura,Mysore,12.33333333,76.10833333,2021-08-31 06:00:00,2.9,No Depletion,No Depletion
+Kannenuru,Mysore,12.09722222,76.51388889,2021-08-31 06:00:00,8.28,No Depletion,No Depletion
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2021-08-31 06:00:00,21.24,No Depletion,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2021-08-31 06:00:00,1.13,No Depletion,No Depletion
+Kittur,Mysore,12.47777778,76.1,2021-08-31 06:00:00,6.05,No Depletion,No Depletion
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2021-08-31 06:00:00,14.5,No Depletion,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2021-08-31 06:00:00,1.24,No Depletion,No Depletion
+Kothanahalli,Mysore,11.925,76.56805556,2021-08-31 06:00:00,9.47,No Depletion,No Depletion
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2021-08-31 06:00:00,10.7,No Depletion,No Depletion
+Krishnarajanagara1,Mysore,12.325,76.28333333,2021-08-31 06:00:00,3.37,No Depletion,No Depletion
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2021-08-31 06:00:00,8.77,No Depletion,No Depletion
+Motha,Mysore,12.09444444,76.47777778,2021-08-31 06:00:00,1.62,No Depletion,No Depletion
+Muguru1,Mysore,12.33611111,76.16111111,2021-08-31 06:00:00,14.66,No Depletion,No Depletion
+Mullur,Mysore,11.98388889,76.46666667,2021-08-31 06:00:00,15.73,No Depletion,No Depletion
+Mulluru,Mysore,11.98333333,76.47916667,2021-08-31 06:00:00,14.17,No Depletion,No Depletion
+Mysore,Mysore,12.3,76.64166667,2021-08-31 06:00:00,9.62,No Depletion,No Depletion
+Mysore1,Mysore,12.35833333,76.5375,2021-08-31 06:00:00,12.05,No Depletion,No Depletion
+Piriyapatna,Mysore,12.33333333,76.1,2021-08-31 06:00:00,12.02,No Depletion,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2021-08-31 06:00:00,7.13,No Depletion,No Depletion
+Ranganathapura,Mysore,12.425,76.0,2021-08-31 06:00:00,4.55,No Depletion,No Depletion
+Saligrama,Mysore,12.55,76.25,2021-08-31 06:00:00,5.62,No Depletion,No Depletion
+Saragur,Mysore,12.12083333,76.46666667,2021-08-31 06:00:00,4.65,No Depletion,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2021-08-31 06:00:00,22.46,No Depletion,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2021-08-31 06:00:00,1.99,No Depletion,No Depletion
+Somanathapura,Mysore,12.13333333,76.94166667,2021-08-31 06:00:00,6.87,No Depletion,No Depletion
+Thandavapura,Mysore,12.175,76.725,2021-08-31 06:00:00,16.24,No Depletion,No Depletion
+Vidyapitha,Mysore,12.10555556,76.70833333,2021-08-31 06:00:00,2.46,No Depletion,No Depletion
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2021-08-31 06:00:00,2.48,No Depletion,No Depletion
+Alaguda,Mysore,12.20194444,76.91055556,2021-11-30 06:00:00,0.37,Moderate,Moderate
+Allampur,Mysore,12.13083333,76.74,2021-11-30 06:00:00,2.09,Low,Low
+Anechowkur,Mysore,12.31388889,76.45277778,2021-11-30 06:00:00,2.08,Moderate,Moderate
+Attigod,Mysore,12.49166667,76.13611111,2021-11-30 06:00:00,4.99,High,High
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2021-11-30 06:00:00,3.03,Moderate,Moderate
+Bannur,Mysore,12.31666667,76.85,2021-11-30 06:00:00,1.33,Moderate,Moderate
+Beeredevanapura,Mysore,11.93361111,76.52583333,2021-11-30 06:00:00,1.8,High,Moderate
+Bettdapura,Mysore,12.47083333,76.10833333,2021-11-30 06:00:00,4.79,Moderate,High
+Bevinahalli,Mysore,12.30666667,76.885,2021-11-30 06:00:00,1.05,Moderate,Low
+Bheerya-A,Mysore,12.5,76.26972222,2021-11-30 06:00:00,0.69,Moderate,Moderate
+Bylakuppe,Mysore,12.49166667,76.21111111,2021-11-30 06:00:00,3.26,Low,Moderate
+Chamundibetta,Mysore,12.5625,76.25861111,2021-11-30 06:00:00,3.29,Low,Moderate
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2021-11-30 06:00:00,0.5,Moderate,Low
+Chunchankatte,Mysore,12.50416667,76.29166667,2021-11-30 06:00:00,2.05,Moderate,Moderate
+Depuru,Mysore,12.4625,76.07305556,2021-11-30 06:00:00,4.14,Low,Moderate
+Deviramanahalli,Mysore,12.10277778,76.67777778,2021-11-30 06:00:00,0.41,Moderate,Moderate
+Gandhigrama,Mysore,12.11527778,76.60166667,2021-11-30 06:00:00,2.47,Moderate,Moderate
+Gargeswari,Mysore,12.5,76.35,2021-11-30 06:00:00,6.11,High,High
+Gowdagere,Mysore,12.19166667,76.375,2021-11-30 06:00:00,7.24,Moderate,Low
+Guluru,Mysore,12.11111111,76.70555556,2021-11-30 06:00:00,0.6,No Depletion,Low
+Hampapur,Mysore,12.12083333,76.46666667,2021-11-30 06:00:00,2.86,No Depletion,Moderate
+Hanagodu,Mysore,12.14166667,76.29166667,2021-11-30 06:00:00,0.49,Low,Moderate
+Heggadadevanakote,Mysore,12.1,76.33333333,2021-11-30 06:00:00,9.23,No Depletion,Moderate
+Heggadadevanakote-A,Mysore,12.09055556,76.32972222,2021-11-30 06:00:00,7.12,No Depletion,Moderate
+Hejjodlu,Mysore,12.37972222,76.37361111,2021-11-30 06:00:00,12.95,No Depletion,Moderate
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2021-11-30 06:00:00,10.51,Low,High
+Hullahalli,Mysore,12.095,76.66888889,2021-11-30 06:00:00,6.59,Moderate,Moderate
+Hunsur A,Mysore,12.30555556,76.275,2021-11-30 06:00:00,1.86,Low,Low
+Hunsur1,Mysore,12.30833333,76.29166667,2021-11-30 06:00:00,13.54,No Depletion,Moderate
+Hunugunahalli,Mysore,12.25472222,76.91055556,2021-11-30 06:00:00,0.05,Moderate,Low
+Ibjala,Mysore,12.11277778,76.44694444,2021-11-30 06:00:00,2.37,Moderate,Moderate
+Kahalli,Mysore,12.16361111,76.84111111,2021-11-30 06:00:00,5.42,High,High
+Kalasthavadi,Mysore,12.36111111,76.66111111,2021-11-30 06:00:00,2.11,Moderate,Moderate
+Kamalapura,Mysore,12.33333333,76.10833333,2021-11-30 06:00:00,2.02,Moderate,Moderate
+Kannenuru,Mysore,12.09722222,76.51388889,2021-11-30 06:00:00,3.96,High,Moderate
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2021-11-30 06:00:00,17.19,No Depletion,High
+Kethupura,Mysore,12.3,76.88805556,2021-11-30 06:00:00,0.75,Moderate,Low
+Kittur,Mysore,12.47777778,76.1,2021-11-30 06:00:00,1.65,Moderate,Moderate
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2021-11-30 06:00:00,3.47,No Depletion,High
+Konasuru,Mysore,12.44805556,76.07111111,2021-11-30 06:00:00,1.2,Low,Low
+Kothanahalli,Mysore,11.925,76.56805556,2021-11-30 06:00:00,3.2,Moderate,Moderate
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2021-11-30 06:00:00,1.96,High,High
+Krishnarajanagara1,Mysore,12.325,76.28333333,2021-11-30 06:00:00,1.63,Moderate,Moderate
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2021-11-30 06:00:00,4.85,High,Moderate
+Motha,Mysore,12.09444444,76.47777778,2021-11-30 06:00:00,0.79,Moderate,Low
+Muguru1,Mysore,12.33611111,76.16111111,2021-11-30 06:00:00,9.15,No Depletion,High
+Mullur,Mysore,11.98388889,76.46666667,2021-11-30 06:00:00,15.44,No Depletion,Moderate
+Mulluru,Mysore,11.98333333,76.47916667,2021-11-30 06:00:00,12.64,No Depletion,Moderate
+Mysore,Mysore,12.3,76.64166667,2021-11-30 06:00:00,8.26,Moderate,Moderate
+Mysore1,Mysore,12.35833333,76.5375,2021-11-30 06:00:00,7.45,Moderate,High
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2021-11-30 06:00:00,9.31,No Depletion,Moderate
+Palya,Mysore,12.095,76.66888889,2021-11-30 06:00:00,0.88,High,Moderate
+Piriyapatna,Mysore,12.33333333,76.1,2021-11-30 06:00:00,7.95,High,Moderate
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2021-11-30 06:00:00,5.7,No Depletion,Moderate
+Ranganathapura,Mysore,12.425,76.0,2021-11-30 06:00:00,1.07,Moderate,Low
+Rathnapuri,Mysore,12.23888889,76.34166667,2021-11-30 06:00:00,0.56,Moderate,Low
+Saligrama1,Mysore,12.50416667,76.29166667,2021-11-30 06:00:00,0.57,Moderate,Moderate
+Saragur,Mysore,12.12083333,76.46666667,2021-11-30 06:00:00,2.54,Moderate,Moderate
+Shiriyur,Mysore,12.38222222,76.39416667,2021-11-30 06:00:00,8.3,High,High
+Siddalingapura,Mysore,12.35833333,76.66111111,2021-11-30 06:00:00,1.24,Low,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2021-11-30 06:00:00,0.8,High,High
+Thandavapura,Mysore,12.175,76.725,2021-11-30 06:00:00,6.82,High,High
+Varuna,Mysore,12.26722222,76.74527778,2021-11-30 06:00:00,1.65,Low,Moderate
+Vidyapitha,Mysore,12.10555556,76.70833333,2021-11-30 06:00:00,1.17,Low,Low
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2021-11-30 06:00:00,0.23,Low,Low
+Alaguda,Mysore,12.20194444,76.91055556,2022-01-30 07:00:00,2.3,No Depletion,Moderate
+Allampur,Mysore,12.13083333,76.74,2022-01-30 07:00:00,2.84,No Depletion,Moderate
+Anechowkur,Mysore,12.31388889,76.45277778,2022-01-30 07:00:00,4.08,Moderate,High
+Attigod,Mysore,12.49166667,76.13611111,2022-01-30 07:00:00,16.15,No Depletion,High
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2022-01-30 07:00:00,5.5,No Depletion,High
+Bevinahalli,Mysore,12.30666667,76.885,2022-01-30 07:00:00,2.42,No Depletion,Moderate
+Bheerya-A,Mysore,12.5,76.26972222,2022-01-30 07:00:00,1.95,No Depletion,High
+Bylakuppe,Mysore,12.49166667,76.21111111,2022-01-30 07:00:00,3.79,No Depletion,High
+Chamundibetta,Mysore,12.5625,76.25861111,2022-01-30 07:00:00,3.59,No Depletion,High
+Chunchankatte,Mysore,12.50416667,76.29166667,2022-01-30 07:00:00,4.18,No Depletion,Moderate
+Depuru,Mysore,12.4625,76.07305556,2022-01-30 07:00:00,5.09,No Depletion,High
+Deviramanahalli,Mysore,12.10277778,76.67777778,2022-01-30 07:00:00,2.67,No Depletion,Moderate
+Gandhigrama,Mysore,12.11527778,76.60166667,2022-01-30 07:00:00,4.27,No Depletion,Moderate
+Gargeswari,Mysore,12.5,76.35,2022-01-30 07:00:00,9.45,No Depletion,High
+Gowdagere,Mysore,12.19166667,76.375,2022-01-30 07:00:00,8.32,No Depletion,Moderate
+Guluru,Mysore,12.11111111,76.70555556,2022-01-30 07:00:00,0.45,Low,Moderate
+Hampapur,Mysore,12.12083333,76.46666667,2022-01-30 07:00:00,2.47,Low,High
+Hanagodu,Mysore,12.14166667,76.29166667,2022-01-30 07:00:00,1.07,No Depletion,Low
+Heggadadevanakote-A,Mysore,12.09055556,76.32972222,2022-01-30 07:00:00,4.43,Moderate,High
+Hejjodlu,Mysore,12.37972222,76.37361111,2022-01-30 07:00:00,12.8,No Depletion,High
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2022-01-30 07:00:00,11.2,No Depletion,High
+Hullahalli,Mysore,12.095,76.66888889,2022-01-30 07:00:00,8.64,No Depletion,High
+Hunsur A,Mysore,12.30555556,76.275,2022-01-30 07:00:00,2.85,No Depletion,Low
+Hunugunahalli,Mysore,12.25472222,76.91055556,2022-01-30 07:00:00,1.55,No Depletion,High
+Ibjala,Mysore,12.11277778,76.44694444,2022-01-30 07:00:00,3.69,No Depletion,High
+Kahalli,Mysore,12.16361111,76.84111111,2022-01-30 07:00:00,9.6,No Depletion,High
+Kalasthavadi,Mysore,12.36111111,76.66111111,2022-01-30 07:00:00,3.4,No Depletion,High
+Kamalapura,Mysore,12.33333333,76.10833333,2022-01-30 07:00:00,3.05,No Depletion,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2022-01-30 07:00:00,8.8,No Depletion,High
+Kethupura,Mysore,12.3,76.88805556,2022-01-30 07:00:00,2.2,No Depletion,Moderate
+Kittur,Mysore,12.47777778,76.1,2022-01-30 07:00:00,4.41,No Depletion,Moderate
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2022-01-30 07:00:00,3.25,No Depletion,High
+Konasuru,Mysore,12.44805556,76.07111111,2022-01-30 07:00:00,1.5,No Depletion,Low
+Kothanahalli,Mysore,11.925,76.56805556,2022-01-30 07:00:00,5.56,Low,Moderate
+Krishnarajanagara1,Mysore,12.325,76.28333333,2022-01-30 07:00:00,3.02,No Depletion,Moderate
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2022-01-30 07:00:00,8.02,No Depletion,Moderate
+Motha,Mysore,12.09444444,76.47777778,2022-01-30 07:00:00,1.93,No Depletion,Moderate
+Muguru1,Mysore,12.33611111,76.16111111,2022-01-30 07:00:00,7.75,Moderate,High
+Mulluru,Mysore,11.98333333,76.47916667,2022-01-30 07:00:00,11.77,Moderate,Moderate
+Mysore1,Mysore,12.35833333,76.5375,2022-01-30 07:00:00,8.8,No Depletion,High
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2022-01-30 07:00:00,2.86,No Depletion,High
+Palya,Mysore,12.095,76.66888889,2022-01-30 07:00:00,4.68,No Depletion,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2022-01-30 07:00:00,4.18,Moderate,High
+Ranganathapura,Mysore,12.425,76.0,2022-01-30 07:00:00,2.5,No Depletion,Moderate
+Rathnapuri,Mysore,12.23888889,76.34166667,2022-01-30 07:00:00,1.77,No Depletion,Moderate
+Saligrama1,Mysore,12.50416667,76.29166667,2022-01-30 07:00:00,3.26,No Depletion,Moderate
+Saragur,Mysore,12.12083333,76.46666667,2022-01-30 07:00:00,5.31,No Depletion,Moderate
+Shiriyur,Mysore,12.38222222,76.39416667,2022-01-30 07:00:00,13.7,No Depletion,High
+Siddalingapura,Mysore,12.35833333,76.66111111,2022-01-30 07:00:00,1.44,No Depletion,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2022-01-30 07:00:00,5.99,No Depletion,High
+Varuna,Mysore,12.26722222,76.74527778,2022-01-30 07:00:00,2.5,No Depletion,Moderate
+Vidyapitha,Mysore,12.10555556,76.70833333,2022-01-30 07:00:00,2.15,No Depletion,Moderate
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2022-01-30 07:00:00,0.43,Low,Low
+Alaguda,Mysore,12.20194444,76.91055556,2022-05-25 00:00:00,1.32,Low,Low
+Allampur,Mysore,12.13083333,76.74,2022-05-25 00:00:00,2.29,No Depletion,No Depletion
+Anechowkur,Mysore,12.31388889,76.45277778,2022-05-25 00:00:00,5.73,No Depletion,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2022-05-25 00:00:00,1.85,Moderate,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2022-05-25 00:00:00,6.62,No Depletion,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2022-05-25 00:00:00,1.35,No Depletion,No Depletion
+Bheerya-A,Mysore,12.5,76.26972222,2022-05-25 00:00:00,0.62,Low,No Depletion
+Bylakuppe,Mysore,12.49166667,76.21111111,2022-05-25 00:00:00,2.91,No Depletion,No Depletion
+Chamundibetta,Mysore,12.5625,76.25861111,2022-05-25 00:00:00,3.29,Low,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2022-05-25 00:00:00,1.2,Moderate,Low
+Depuru,Mysore,12.4625,76.07305556,2022-05-25 00:00:00,3.07,No Depletion,No Depletion
+Deviramanahalli,Mysore,12.10277778,76.67777778,2022-05-25 00:00:00,1.86,No Depletion,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2022-05-25 00:00:00,3.22,No Depletion,No Depletion
+Gowdagere,Mysore,12.19166667,76.375,2022-05-25 00:00:00,5.17,Moderate,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2022-05-25 00:00:00,0.8,No Depletion,No Depletion
+Hampapur,Mysore,12.12083333,76.46666667,2022-05-25 00:00:00,2.75,No Depletion,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2022-05-25 00:00:00,0.74,Moderate,No Depletion
+Heggadadevanakote-A,Mysore,12.09055556,76.32972222,2022-05-25 00:00:00,5.7,No Depletion,No Depletion
+Hejjodlu,Mysore,12.37972222,76.37361111,2022-05-25 00:00:00,8.15,No Depletion,No Depletion
+Hosaramanahalli,Mysore,12.36666667,76.42222222,2022-05-25 00:00:00,2.85,No Depletion,No Depletion
+Hullahalli,Mysore,12.095,76.66888889,2022-05-25 00:00:00,7.34,No Depletion,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2022-05-25 00:00:00,1.65,Low,Low
+Hunugunahalli,Mysore,12.25472222,76.91055556,2022-05-25 00:00:00,0.3,Low,No Depletion
+Ibjala,Mysore,12.11277778,76.44694444,2022-05-25 00:00:00,3.1,No Depletion,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2022-05-25 00:00:00,5.9,No Depletion,No Depletion
+Kalasthavadi,Mysore,12.36111111,76.66111111,2022-05-25 00:00:00,2.21,Low,No Depletion
+Kamalapura,Mysore,12.33333333,76.10833333,2022-05-25 00:00:00,1.35,Low,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2022-05-25 00:00:00,4.3,No Depletion,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2022-05-25 00:00:00,0.9,Low,Low
+Kittur,Mysore,12.47777778,76.1,2022-05-25 00:00:00,1.8,Low,No Depletion
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2022-05-25 00:00:00,2.85,No Depletion,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2022-05-25 00:00:00,1.15,Low,Low
+Kothanahalli,Mysore,11.925,76.56805556,2022-05-25 00:00:00,6.36,No Depletion,No Depletion
+Krishnarajanagara1,Mysore,12.325,76.28333333,2022-05-25 00:00:00,1.47,Low,Low
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2022-05-25 00:00:00,4.75,Moderate,No Depletion
+Motha,Mysore,12.09444444,76.47777778,2022-05-25 00:00:00,0.9,Low,No Depletion
+Muguru1,Mysore,12.33611111,76.16111111,2022-05-25 00:00:00,9.2,No Depletion,No Depletion
+Mulluru,Mysore,11.98333333,76.47916667,2022-05-25 00:00:00,12.97,No Depletion,No Depletion
+Mysore1,Mysore,12.35833333,76.5375,2022-05-25 00:00:00,8.45,No Depletion,No Depletion
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2022-05-25 00:00:00,1.96,Low,No Depletion
+Palya,Mysore,12.095,76.66888889,2022-05-25 00:00:00,2.64,No Depletion,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2022-05-25 00:00:00,5.32,No Depletion,No Depletion
+Ranganathapura,Mysore,12.425,76.0,2022-05-25 00:00:00,1.8,Low,Low
+Rathnapuri,Mysore,12.23888889,76.34166667,2022-05-25 00:00:00,1.51,No Depletion,No Depletion
+Saligrama1,Mysore,12.50416667,76.29166667,2022-05-25 00:00:00,0.74,Moderate,Low
+Saragur,Mysore,12.12083333,76.46666667,2022-05-25 00:00:00,4.71,No Depletion,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2022-05-25 00:00:00,8.7,Low,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2022-05-25 00:00:00,1.05,Low,No Depletion
+Somanathapura,Mysore,12.13333333,76.94166667,2022-05-25 00:00:00,3.96,Low,No Depletion
+Varuna,Mysore,12.26722222,76.74527778,2022-05-25 00:00:00,0.96,Low,Low
+Vidyapitha,Mysore,12.10555556,76.70833333,2022-05-25 00:00:00,1.85,No Depletion,No Depletion
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2022-05-25 00:00:00,0.78,No Depletion,No Depletion
+Alaguda,Mysore,12.20194444,76.91055556,2022-08-25 00:00:00,1.4,No Depletion,No Depletion
+Allampur,Mysore,12.13083333,76.74,2022-08-25 00:00:00,2.25,No Depletion,No Depletion
+Anechowkur,Mysore,12.31388889,76.45277778,2022-08-25 00:00:00,1.83,Low,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2022-08-25 00:00:00,3.68,No Depletion,No Depletion
+Bannur,Mysore,12.31666667,76.85,2022-08-25 00:00:00,2.05,No Depletion,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2022-08-25 00:00:00,1.1,High,No Depletion
+Bettdapura,Mysore,12.47083333,76.10833333,2022-08-25 00:00:00,5.07,No Depletion,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2022-08-25 00:00:00,1.3,Low,No Depletion
+Bheerya-A,Mysore,12.5,76.26972222,2022-08-25 00:00:00,1.1,No Depletion,No Depletion
+Bylakuppe,Mysore,12.49166667,76.21111111,2022-08-25 00:00:00,1.74,Low,No Depletion
+Chamundibetta,Mysore,12.5625,76.25861111,2022-08-25 00:00:00,3.49,No Depletion,No Depletion
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2022-08-25 00:00:00,0.6,No Depletion,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2022-08-25 00:00:00,3.85,No Depletion,No Depletion
+Depuru,Mysore,12.4625,76.07305556,2022-08-25 00:00:00,1.5,Low,No Depletion
+Deviramanahalli,Mysore,12.10277778,76.67777778,2022-08-25 00:00:00,1.55,Low,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2022-08-25 00:00:00,2.37,Low,No Depletion
+Gowdagere,Mysore,12.19166667,76.375,2022-08-25 00:00:00,7.57,No Depletion,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2022-08-25 00:00:00,0.6,No Depletion,No Depletion
+Hampapur,Mysore,12.12083333,76.46666667,2022-08-25 00:00:00,1.55,No Depletion,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2022-08-25 00:00:00,2.39,No Depletion,No Depletion
+Heggadadevanakote,Mysore,12.1,76.33333333,2022-08-25 00:00:00,4.85,No Depletion,No Depletion
+Heggadadevanakote-A,Mysore,12.09055556,76.32972222,2022-08-25 00:00:00,2.8,No Depletion,No Depletion
+Hejjodlu,Mysore,12.37972222,76.37361111,2022-08-25 00:00:00,5.87,No Depletion,No Depletion
+Hullahalli,Mysore,12.095,76.66888889,2022-08-25 00:00:00,3.84,No Depletion,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2022-08-25 00:00:00,1.97,Low,No Depletion
+Hunsur1,Mysore,12.30833333,76.29166667,2022-08-25 00:00:00,6.61,No Depletion,No Depletion
+Hunugunahalli,Mysore,12.25472222,76.91055556,2022-08-25 00:00:00,0.7,No Depletion,No Depletion
+Ibjala,Mysore,12.11277778,76.44694444,2022-08-25 00:00:00,2.55,Low,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2022-08-25 00:00:00,5.3,No Depletion,No Depletion
+Kamalapura,Mysore,12.33333333,76.10833333,2022-08-25 00:00:00,2.2,No Depletion,No Depletion
+Kannenuru,Mysore,12.09722222,76.51388889,2022-08-25 00:00:00,4.1,Low,No Depletion
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2022-08-25 00:00:00,10.4,No Depletion,No Depletion
+Kellanapura,Mysore,12.25444444,76.81694444,2022-08-25 00:00:00,1.02,No Depletion,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2022-08-25 00:00:00,1.25,No Depletion,No Depletion
+Kittur,Mysore,12.47777778,76.1,2022-08-25 00:00:00,2.2,No Depletion,No Depletion
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2022-08-25 00:00:00,1.5,Low,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2022-08-25 00:00:00,1.25,No Depletion,No Depletion
+Kothanahalli,Mysore,11.925,76.56805556,2022-08-25 00:00:00,4.64,Low,No Depletion
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2022-08-25 00:00:00,2.4,High,No Depletion
+Krishnarajanagara1,Mysore,12.325,76.28333333,2022-08-25 00:00:00,2.27,No Depletion,No Depletion
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2022-08-25 00:00:00,7.75,No Depletion,No Depletion
+Motha,Mysore,12.09444444,76.47777778,2022-08-25 00:00:00,1.28,No Depletion,No Depletion
+Muguru1,Mysore,12.33611111,76.16111111,2022-08-25 00:00:00,5.6,No Depletion,No Depletion
+Mullur,Mysore,11.98388889,76.46666667,2022-08-25 00:00:00,7.19,Low,No Depletion
+Mulluru,Mysore,11.98333333,76.47916667,2022-08-25 00:00:00,5.52,Low,No Depletion
+Mysore,Mysore,12.3,76.64166667,2022-08-25 00:00:00,8.96,No Depletion,No Depletion
+Mysore1,Mysore,12.35833333,76.5375,2022-08-25 00:00:00,8.3,Low,No Depletion
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2022-08-25 00:00:00,2.11,Low,No Depletion
+Palya,Mysore,12.095,76.66888889,2022-08-25 00:00:00,0.83,No Depletion,No Depletion
+Piriyapatna,Mysore,12.33333333,76.1,2022-08-25 00:00:00,8.05,Low,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2022-08-25 00:00:00,2.1,No Depletion,No Depletion
+Rathnapuri,Mysore,12.23888889,76.34166667,2022-08-25 00:00:00,0.6,Low,No Depletion
+Saligrama,Mysore,12.55,76.25,2022-08-25 00:00:00,2.53,No Depletion,No Depletion
+Saligrama1,Mysore,12.50416667,76.29166667,2022-08-25 00:00:00,2.79,No Depletion,No Depletion
+Saragur,Mysore,12.12083333,76.46666667,2022-08-25 00:00:00,3.36,Low,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2022-08-25 00:00:00,9.3,No Depletion,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2022-08-25 00:00:00,1.19,No Depletion,No Depletion
+Somanathapura,Mysore,12.13333333,76.94166667,2022-08-25 00:00:00,4.0,No Depletion,No Depletion
+Thandavapura,Mysore,12.175,76.725,2022-08-25 00:00:00,11.82,No Depletion,No Depletion
+Varuna,Mysore,12.26722222,76.74527778,2022-08-25 00:00:00,1.77,No Depletion,No Depletion
+Vidyapitha,Mysore,12.10555556,76.70833333,2022-08-25 00:00:00,1.2,Low,No Depletion
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2022-08-25 00:00:00,0.38,Low,No Depletion
+Alaguda,Mysore,12.20194444,76.91055556,2022-11-05 00:00:00,1.25,Moderate,Low
+Allampur,Mysore,12.13083333,76.74,2022-11-05 00:00:00,1.75,Moderate,Low
+Anechowkur,Mysore,12.31388889,76.45277778,2022-11-05 00:00:00,2.33,High,Moderate
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2022-11-05 00:00:00,2.95,High,Moderate
+Beeredevanapura,Mysore,11.93361111,76.52583333,2022-11-05 00:00:00,6.45,No Depletion,Moderate
+Bettdapura,Mysore,12.47083333,76.10833333,2022-11-05 00:00:00,4.6,High,Moderate
+Bevinahalli,Mysore,12.30666667,76.885,2022-11-05 00:00:00,1.4,Moderate,Low
+Bheerya-A,Mysore,12.5,76.26972222,2022-11-05 00:00:00,0.9,Moderate,Moderate
+Bylakuppe,Mysore,12.49166667,76.21111111,2022-11-05 00:00:00,2.22,Moderate,Moderate
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2022-11-05 00:00:00,0.48,Moderate,Low
+Chunchankatte,Mysore,12.50416667,76.29166667,2022-11-05 00:00:00,3.0,Moderate,Low
+Depuru,Mysore,12.4625,76.07305556,2022-11-05 00:00:00,1.87,High,Moderate
+Gandhigrama,Mysore,12.11527778,76.60166667,2022-11-05 00:00:00,2.52,Moderate,Moderate
+Guluru,Mysore,12.11111111,76.70555556,2022-11-05 00:00:00,0.4,Moderate,Low
+Hampapur,Mysore,12.12083333,76.46666667,2022-11-05 00:00:00,1.27,Moderate,Moderate
+Hanagodu,Mysore,12.14166667,76.29166667,2022-11-05 00:00:00,0.69,Moderate,Moderate
+Heggadadevanakote,Mysore,12.1,76.33333333,2022-11-05 00:00:00,4.14,High,Moderate
+Hejjodlu,Mysore,12.37972222,76.37361111,2022-11-05 00:00:00,5.4,High,Moderate
+Hullahalli,Mysore,12.095,76.66888889,2022-11-05 00:00:00,2.94,High,Moderate
+Hunsur A,Mysore,12.30555556,76.275,2022-11-05 00:00:00,2.2,Moderate,Low
+Hunsur1,Mysore,12.30833333,76.29166667,2022-11-05 00:00:00,5.54,High,Moderate
+Hunugunahalli,Mysore,12.25472222,76.91055556,2022-11-05 00:00:00,0.6,Moderate,Moderate
+Ibjala,Mysore,12.11277778,76.44694444,2022-11-05 00:00:00,2.6,Moderate,Moderate
+Kahalli,Mysore,12.16361111,76.84111111,2022-11-05 00:00:00,4.82,High,Moderate
+Kamalapura,Mysore,12.33333333,76.10833333,2022-11-05 00:00:00,2.18,Moderate,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2022-11-05 00:00:00,4.2,High,Moderate
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2022-11-05 00:00:00,9.68,High,Moderate
+Kethupura,Mysore,12.3,76.88805556,2022-11-05 00:00:00,1.25,Moderate,Low
+Kittur,Mysore,12.47777778,76.1,2022-11-05 00:00:00,1.2,High,Moderate
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2022-11-05 00:00:00,1.65,Moderate,Moderate
+Konasuru,Mysore,12.44805556,76.07111111,2022-11-05 00:00:00,1.24,Moderate,Low
+Kothanahalli,Mysore,11.925,76.56805556,2022-11-05 00:00:00,4.86,Moderate,Moderate
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2022-11-05 00:00:00,6.95,High,Moderate
+Krishnarajanagara1,Mysore,12.325,76.28333333,2022-11-05 00:00:00,2.12,Moderate,Low
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2022-11-05 00:00:00,6.7,Moderate,Moderate
+Motha,Mysore,12.09444444,76.47777778,2022-11-05 00:00:00,0.95,Moderate,Low
+Muguru1,Mysore,12.33611111,76.16111111,2022-11-05 00:00:00,4.4,High,Moderate
+Mullur,Mysore,11.98388889,76.46666667,2022-11-05 00:00:00,8.14,High,High
+Mulluru,Mysore,11.98333333,76.47916667,2022-11-05 00:00:00,6.22,High,High
+Mysore,Mysore,12.3,76.64166667,2022-11-05 00:00:00,8.73,Moderate,Moderate
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2022-11-05 00:00:00,2.51,Moderate,Moderate
+Palya,Mysore,12.095,76.66888889,2022-11-05 00:00:00,0.75,High,Moderate
+Piriyapatna,Mysore,12.33333333,76.1,2022-11-05 00:00:00,8.67,Moderate,Moderate
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2022-11-05 00:00:00,2.1,Moderate,Moderate
+Rathnapuri,Mysore,12.23888889,76.34166667,2022-11-05 00:00:00,0.65,Moderate,Low
+Saligrama,Mysore,12.55,76.25,2022-11-05 00:00:00,2.0,Moderate,Moderate
+Saligrama1,Mysore,12.50416667,76.29166667,2022-11-05 00:00:00,2.79,Moderate,Low
+Saragur,Mysore,12.12083333,76.46666667,2022-11-05 00:00:00,3.66,High,Moderate
+Shiriyur,Mysore,12.38222222,76.39416667,2022-11-05 00:00:00,6.85,High,Moderate
+Siddalingapura,Mysore,12.35833333,76.66111111,2022-11-05 00:00:00,1.04,Moderate,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2022-11-05 00:00:00,2.61,High,Moderate
+Thandavapura,Mysore,12.175,76.725,2022-11-05 00:00:00,10.82,High,Moderate
+Varuna,Mysore,12.26722222,76.74527778,2022-11-05 00:00:00,1.65,Moderate,Low
+Vidyapitha,Mysore,12.10555556,76.70833333,2022-11-05 00:00:00,1.33,Moderate,Low
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2022-11-05 00:00:00,0.43,Low,Moderate
+Alaguda,Mysore,12.20194444,76.91055556,2023-01-05 00:00:00,2.4,Low,Low
+Allampur,Mysore,12.13083333,76.74,2023-01-05 00:00:00,3.85,No Depletion,Moderate
+Anechowkur,Mysore,12.31388889,76.45277778,2023-01-05 00:00:00,5.75,Moderate,High
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2023-01-05 00:00:00,7.05,High,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2023-01-05 00:00:00,2.7,Low,High
+Bettdapura,Mysore,12.47083333,76.10833333,2023-01-05 00:00:00,8.67,High,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2023-01-05 00:00:00,2.95,Low,Low
+Bheerya-A,Mysore,12.5,76.26972222,2023-01-05 00:00:00,3.15,Moderate,Low
+Bylakuppe,Mysore,12.49166667,76.21111111,2023-01-05 00:00:00,4.3,Low,No Depletion
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2023-01-05 00:00:00,3.0,No Depletion,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2023-01-05 00:00:00,4.3,Low,Low
+Depuru,Mysore,12.4625,76.07305556,2023-01-05 00:00:00,6.1,No Depletion,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2023-01-05 00:00:00,5.25,Low,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2023-01-05 00:00:00,2.35,Low,Moderate
+Hampapur,Mysore,12.12083333,76.46666667,2023-01-05 00:00:00,3.35,Moderate,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2023-01-05 00:00:00,1.85,No Depletion,Low
+Heggadadevanakote,Mysore,12.1,76.33333333,2023-01-05 00:00:00,8.92,High,High
+Hullahalli,Mysore,12.095,76.66888889,2023-01-05 00:00:00,7.75,Moderate,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2023-01-05 00:00:00,3.5,No Depletion,Low
+Hunsur1,Mysore,12.30833333,76.29166667,2023-01-05 00:00:00,21.2,High,No Depletion
+Hunugunahalli,Mysore,12.25472222,76.91055556,2023-01-05 00:00:00,1.9,Moderate,Low
+Ibjala,Mysore,12.11277778,76.44694444,2023-01-05 00:00:00,4.8,Low,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2023-01-05 00:00:00,10.2,High,No Depletion
+Kamalapura,Mysore,12.33333333,76.10833333,2023-01-05 00:00:00,3.4,Low,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2023-01-05 00:00:00,8.85,No Depletion,No Depletion
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2023-01-05 00:00:00,15.41,Moderate,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2023-01-05 00:00:00,3.05,No Depletion,Low
+Kittur,Mysore,12.47777778,76.1,2023-01-05 00:00:00,6.1,Moderate,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2023-01-05 00:00:00,2.25,No Depletion,Low
+Kothanahalli,Mysore,11.925,76.56805556,2023-01-05 00:00:00,6.35,Low,Moderate
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2023-01-05 00:00:00,10.61,No Depletion,High
+Krishnarajanagara1,Mysore,12.325,76.28333333,2023-01-05 00:00:00,4.35,No Depletion,Low
+Motha,Mysore,12.09444444,76.47777778,2023-01-05 00:00:00,2.45,No Depletion,Low
+Muguru1,Mysore,12.33611111,76.16111111,2023-01-05 00:00:00,8.45,High,High
+Mullur,Mysore,11.98388889,76.46666667,2023-01-05 00:00:00,14.13,Moderate,High
+Mulluru,Mysore,11.98333333,76.47916667,2023-01-05 00:00:00,10.9,Moderate,High
+Mysore,Mysore,12.3,76.64166667,2023-01-05 00:00:00,11.18,Low,No Depletion
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2023-01-05 00:00:00,3.85,High,High
+Palya,Mysore,12.095,76.66888889,2023-01-05 00:00:00,5.36,Moderate,No Depletion
+Piriyapatna,Mysore,12.33333333,76.1,2023-01-05 00:00:00,11.12,Moderate,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2023-01-05 00:00:00,4.5,High,Moderate
+Rathnapuri,Mysore,12.23888889,76.34166667,2023-01-05 00:00:00,2.4,Moderate,Low
+Saligrama,Mysore,12.55,76.25,2023-01-05 00:00:00,4.9,Moderate,No Depletion
+Saligrama1,Mysore,12.50416667,76.29166667,2023-01-05 00:00:00,4.22,No Depletion,Low
+Saragur,Mysore,12.12083333,76.46666667,2023-01-05 00:00:00,6.7,No Depletion,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2023-01-05 00:00:00,13.95,High,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2023-01-05 00:00:00,2.1,Low,Low
+Somanathapura,Mysore,12.13333333,76.94166667,2023-01-05 00:00:00,8.15,Low,No Depletion
+Thandavapura,Mysore,12.175,76.725,2023-01-05 00:00:00,14.87,No Depletion,No Depletion
+Varuna,Mysore,12.26722222,76.74527778,2023-01-05 00:00:00,4.5,Moderate,No Depletion
+Vidyapitha,Mysore,12.10555556,76.70833333,2023-01-05 00:00:00,2.66,Moderate,Low
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2023-01-05 00:00:00,1.35,Moderate,Low
+Alaguda,Mysore,12.20194444,76.91055556,2023-05-26 00:00:00,2.75,Low,No Depletion
+Allampur,Mysore,12.13083333,76.74,2023-05-26 00:00:00,3.46,No Depletion,No Depletion
+Anechowkur,Mysore,12.31388889,76.45277778,2023-05-26 00:00:00,7.65,No Depletion,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2023-05-26 00:00:00,10.9,No Depletion,No Depletion
+Bannur,Mysore,12.31666667,76.85,2023-05-26 00:00:00,3.59,Low,No Depletion
+Bannur A,Mysore,12.33,76.8625,2023-05-26 00:00:00,8.38,Moderate,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2023-05-26 00:00:00,2.8,Low,No Depletion
+Bettdapura,Mysore,12.47083333,76.10833333,2023-05-26 00:00:00,16.53,No Depletion,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2023-05-26 00:00:00,3.08,No Depletion,No Depletion
+Bheerya-A,Mysore,12.5,76.26972222,2023-05-26 00:00:00,4.92,No Depletion,No Depletion
+Bylakuppe,Mysore,12.49166667,76.21111111,2023-05-26 00:00:00,4.4,No Depletion,No Depletion
+Chamundibetta,Mysore,12.5625,76.25861111,2023-05-26 00:00:00,4.1,No Depletion,No Depletion
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2023-05-26 00:00:00,2.33,No Depletion,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2023-05-26 00:00:00,4.83,No Depletion,No Depletion
+Depuru,Mysore,12.4625,76.07305556,2023-05-26 00:00:00,5.77,No Depletion,No Depletion
+Deviramanahalli,Mysore,12.10277778,76.67777778,2023-05-26 00:00:00,3.2,Low,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2023-05-26 00:00:00,5.85,No Depletion,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2023-05-26 00:00:00,2.9,No Depletion,No Depletion
+Hampapur,Mysore,12.12083333,76.46666667,2023-05-26 00:00:00,5.5,No Depletion,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2023-05-26 00:00:00,1.7,No Depletion,No Depletion
+Heggadadevanakote,Mysore,12.1,76.33333333,2023-05-26 00:00:00,12.67,No Depletion,No Depletion
+Hullahalli,Mysore,12.095,76.66888889,2023-05-26 00:00:00,9.8,No Depletion,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2023-05-26 00:00:00,3.36,No Depletion,No Depletion
+Hunsur1,Mysore,12.30833333,76.29166667,2023-05-26 00:00:00,25.22,No Depletion,No Depletion
+Hunugunahalli,Mysore,12.25472222,76.91055556,2023-05-26 00:00:00,4.35,Low,No Depletion
+Ibjala,Mysore,12.11277778,76.44694444,2023-05-26 00:00:00,5.78,No Depletion,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2023-05-26 00:00:00,15.4,No Depletion,No Depletion
+Kamalapura,Mysore,12.33333333,76.10833333,2023-05-26 00:00:00,3.58,No Depletion,No Depletion
+Kannenuru,Mysore,12.09722222,76.51388889,2023-05-26 00:00:00,4.9,High,No Depletion
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2023-05-26 00:00:00,16.72,No Depletion,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2023-05-26 00:00:00,2.95,No Depletion,No Depletion
+Kittur,Mysore,12.47777778,76.1,2023-05-26 00:00:00,7.73,No Depletion,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2023-05-26 00:00:00,2.21,No Depletion,No Depletion
+Kothanahalli,Mysore,11.925,76.56805556,2023-05-26 00:00:00,7.0,No Depletion,No Depletion
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2023-05-26 00:00:00,10.36,No Depletion,No Depletion
+Krishnarajanagara1,Mysore,12.325,76.28333333,2023-05-26 00:00:00,3.78,Low,No Depletion
+Motha,Mysore,12.09444444,76.47777778,2023-05-26 00:00:00,1.86,Low,No Depletion
+Muguru1,Mysore,12.33611111,76.16111111,2023-05-26 00:00:00,12.1,No Depletion,No Depletion
+Mullur,Mysore,11.98388889,76.46666667,2023-05-26 00:00:00,16.56,No Depletion,No Depletion
+Mulluru,Mysore,11.98333333,76.47916667,2023-05-26 00:00:00,13.58,No Depletion,No Depletion
+Mysore,Mysore,12.3,76.64166667,2023-05-26 00:00:00,11.85,Low,No Depletion
+Mysore1,Mysore,12.35833333,76.5375,2023-05-26 00:00:00,13.2,No Depletion,No Depletion
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2023-05-26 00:00:00,7.05,Low,No Depletion
+P Basavanahalli,Mysore,12.42666667,76.06138889,2023-05-26 00:00:00,21.7,No Depletion,No Depletion
+Palya,Mysore,12.095,76.66888889,2023-05-26 00:00:00,7.85,No Depletion,No Depletion
+Piriyapatna,Mysore,12.33333333,76.1,2023-05-26 00:00:00,13.45,No Depletion,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2023-05-26 00:00:00,8.5,No Depletion,No Depletion
+Ranganathapura,Mysore,12.425,76.0,2023-05-26 00:00:00,4.45,No Depletion,No Depletion
+Rathnapuri,Mysore,12.23888889,76.34166667,2023-05-26 00:00:00,4.22,Moderate,No Depletion
+Saligrama,Mysore,12.55,76.25,2023-05-26 00:00:00,6.45,Low,No Depletion
+Saligrama1,Mysore,12.50416667,76.29166667,2023-05-26 00:00:00,3.95,No Depletion,No Depletion
+Saragur,Mysore,12.12083333,76.46666667,2023-05-26 00:00:00,5.75,No Depletion,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2023-05-26 00:00:00,18.92,No Depletion,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2023-05-26 00:00:00,2.7,No Depletion,No Depletion
+Varuna,Mysore,12.26722222,76.74527778,2023-05-26 00:00:00,5.8,No Depletion,No Depletion
+Vidyapitha,Mysore,12.10555556,76.70833333,2023-05-26 00:00:00,5.12,No Depletion,No Depletion
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2023-05-26 00:00:00,3.1,No Depletion,No Depletion
+Alaguda,Mysore,12.20194444,76.91055556,2023-08-25 00:00:00,3.25,No Depletion,No Depletion
+Allampur,Mysore,12.13083333,76.74,2023-08-25 00:00:00,2.5,No Depletion,No Depletion
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2023-08-25 00:00:00,8.9,No Depletion,No Depletion
+Bannur,Mysore,12.31666667,76.85,2023-08-25 00:00:00,4.52,Low,No Depletion
+Bannur A,Mysore,12.33,76.8625,2023-08-25 00:00:00,9.5,No Depletion,No Depletion
+Beeredevanapura,Mysore,11.93361111,76.52583333,2023-08-25 00:00:00,3.0,No Depletion,No Depletion
+Bettadapura,Mysore,12.09166667,76.51666667,2023-08-25 00:00:00,5.65,No Depletion,No Depletion
+Bettdapura,Mysore,12.47083333,76.10833333,2023-08-25 00:00:00,11.75,Moderate,No Depletion
+Bevinahalli,Mysore,12.30666667,76.885,2023-08-25 00:00:00,2.5,High,No Depletion
+Bheerya-A,Mysore,12.5,76.26972222,2023-08-25 00:00:00,4.1,High,No Depletion
+Bylakuppe,Mysore,12.49166667,76.21111111,2023-08-25 00:00:00,3.6,Low,No Depletion
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2023-08-25 00:00:00,1.25,Low,No Depletion
+Chunchankatte,Mysore,12.50416667,76.29166667,2023-08-25 00:00:00,3.47,Moderate,No Depletion
+Depuru,Mysore,12.4625,76.07305556,2023-08-25 00:00:00,5.11,No Depletion,No Depletion
+Deviramanahalli,Mysore,12.10277778,76.67777778,2023-08-25 00:00:00,3.27,No Depletion,No Depletion
+Gandhigrama,Mysore,12.11527778,76.60166667,2023-08-25 00:00:00,3.9,No Depletion,No Depletion
+Guluru,Mysore,12.11111111,76.70555556,2023-08-25 00:00:00,2.68,No Depletion,No Depletion
+Hampapur,Mysore,12.12083333,76.46666667,2023-08-25 00:00:00,5.5,No Depletion,No Depletion
+Hanagodu,Mysore,12.14166667,76.29166667,2023-08-25 00:00:00,1.4,Low,No Depletion
+Heggadadevanakote,Mysore,12.1,76.33333333,2023-08-25 00:00:00,11.08,No Depletion,No Depletion
+Hullahalli,Mysore,12.095,76.66888889,2023-08-25 00:00:00,8.7,No Depletion,No Depletion
+Hunsur A,Mysore,12.30555556,76.275,2023-08-25 00:00:00,3.32,High,No Depletion
+Hunsur1,Mysore,12.30833333,76.29166667,2023-08-25 00:00:00,11.42,High,No Depletion
+Hunugunahalli,Mysore,12.25472222,76.91055556,2023-08-25 00:00:00,4.88,No Depletion,No Depletion
+Ibjala,Mysore,12.11277778,76.44694444,2023-08-25 00:00:00,4.0,High,No Depletion
+Kahalli,Mysore,12.16361111,76.84111111,2023-08-25 00:00:00,14.78,No Depletion,No Depletion
+Kannenuru,Mysore,12.09722222,76.51388889,2023-08-25 00:00:00,8.5,No Depletion,No Depletion
+Kethupura,Mysore,12.3,76.88805556,2023-08-25 00:00:00,2.43,No Depletion,No Depletion
+Kittur,Mysore,12.47777778,76.1,2023-08-25 00:00:00,5.95,No Depletion,No Depletion
+Konasuru,Mysore,12.44805556,76.07111111,2023-08-25 00:00:00,1.95,No Depletion,No Depletion
+Kothanahalli,Mysore,11.925,76.56805556,2023-08-25 00:00:00,6.98,No Depletion,No Depletion
+Krishnarajanagara1,Mysore,12.325,76.28333333,2023-08-25 00:00:00,4.02,Low,No Depletion
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2023-08-25 00:00:00,10.4,No Depletion,No Depletion
+Motha,Mysore,12.09444444,76.47777778,2023-08-25 00:00:00,2.07,High,No Depletion
+Mullur,Mysore,11.98388889,76.46666667,2023-08-25 00:00:00,15.42,No Depletion,No Depletion
+Mulluru,Mysore,11.98333333,76.47916667,2023-08-25 00:00:00,12.0,Low,No Depletion
+Mysore,Mysore,12.3,76.64166667,2023-08-25 00:00:00,12.05,No Depletion,No Depletion
+Mysore1,Mysore,12.35833333,76.5375,2023-08-25 00:00:00,10.5,High,No Depletion
+Nanjanayakanahalli,Mysore,12.1,76.33333333,2023-08-25 00:00:00,7.35,Moderate,No Depletion
+P Basavanahalli,Mysore,12.42666667,76.06138889,2023-08-25 00:00:00,21.53,No Depletion,No Depletion
+Palya,Mysore,12.095,76.66888889,2023-08-25 00:00:00,6.5,No Depletion,No Depletion
+Piriyapatna,Mysore,12.33333333,76.1,2023-08-25 00:00:00,12.58,High,No Depletion
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2023-08-25 00:00:00,4.8,Moderate,No Depletion
+Ranganathapura,Mysore,12.425,76.0,2023-08-25 00:00:00,3.05,Moderate,No Depletion
+Rathnapuri,Mysore,12.23888889,76.34166667,2023-08-25 00:00:00,6.7,No Depletion,No Depletion
+Saligrama,Mysore,12.55,76.25,2023-08-25 00:00:00,7.28,No Depletion,No Depletion
+Saligrama1,Mysore,12.50416667,76.29166667,2023-08-25 00:00:00,3.61,Low,No Depletion
+Saragur,Mysore,12.12083333,76.46666667,2023-08-25 00:00:00,5.25,No Depletion,No Depletion
+Shiriyur,Mysore,12.38222222,76.39416667,2023-08-25 00:00:00,18.15,No Depletion,No Depletion
+Siddalingapura,Mysore,12.35833333,76.66111111,2023-08-25 00:00:00,2.5,No Depletion,No Depletion
+Varuna,Mysore,12.26722222,76.74527778,2023-08-25 00:00:00,3.9,No Depletion,No Depletion
+Vidyapitha,Mysore,12.10555556,76.70833333,2023-08-25 00:00:00,4.56,No Depletion,No Depletion
+Yelemuddanahalli,Mysore,12.24861111,76.05972222,2023-08-25 00:00:00,2.9,No Depletion,No Depletion
+Allampur,Mysore,12.13083333,76.74,2023-11-05 00:00:00,1.83,Moderate,Low
+Badakanakoppalu,Mysore,12.51138889,76.38972222,2023-11-05 00:00:00,7.02,Low,Moderate
+Bannur,Mysore,12.31666667,76.85,2023-11-05 00:00:00,4.61,No Depletion,Low
+Beeredevanapura,Mysore,11.93361111,76.52583333,2023-11-05 00:00:00,2.52,High,Low
+Bevinahalli,Mysore,12.30666667,76.885,2023-11-05 00:00:00,7.48,No Depletion,Low
+Bheerya-A,Mysore,12.5,76.26972222,2023-11-05 00:00:00,8.99,No Depletion,Low
+Bylakuppe,Mysore,12.49166667,76.21111111,2023-11-05 00:00:00,4.1,No Depletion,Low
+Chikkayyanachathra,Mysore,12.07222222,76.68333333,2023-11-05 00:00:00,1.47,Moderate,Low
+Depuru,Mysore,12.4625,76.07305556,2023-11-05 00:00:00,5.06,No Depletion,Low
+Deviramanahalli,Mysore,12.10277778,76.67777778,2023-11-05 00:00:00,3.01,Low,Low
+Gandhigrama,Mysore,12.11527778,76.60166667,2023-11-05 00:00:00,1.46,High,Moderate
+Guluru,Mysore,12.11111111,76.70555556,2023-11-05 00:00:00,1.84,Low,Low
+Hampapur,Mysore,12.12083333,76.46666667,2023-11-05 00:00:00,3.4,Low,Moderate
+Hanagodu,Mysore,12.14166667,76.29166667,2023-11-05 00:00:00,1.53,Low,Low
+Heggadadevanakote,Mysore,12.1,76.33333333,2023-11-05 00:00:00,8.89,Moderate,Moderate
+Hejjodlu,Mysore,12.37972222,76.37361111,2023-11-05 00:00:00,4.64,High,High
+Hullahalli,Mysore,12.095,76.66888889,2023-11-05 00:00:00,3.47,High,Moderate
+Hunsur A,Mysore,12.30555556,76.275,2023-11-05 00:00:00,9.62,No Depletion,Low
+Hunsur1,Mysore,12.30833333,76.29166667,2023-11-05 00:00:00,24.62,No Depletion,High
+Hunugunahalli,Mysore,12.25472222,76.91055556,2023-11-05 00:00:00,2.36,No Depletion,Low
+Ibjala,Mysore,12.11277778,76.44694444,2023-11-05 00:00:00,9.62,No Depletion,Low
+Kannenuru,Mysore,12.09722222,76.51388889,2023-11-05 00:00:00,2.09,High,Moderate
+Karimuddanahalli,Mysore,12.18416667,76.36666667,2023-11-05 00:00:00,15.17,Moderate,High
+Kethupura,Mysore,12.3,76.88805556,2023-11-05 00:00:00,2.42,Low,Low
+Koimuthur Colony,Mysore,12.25027778,76.33138889,2023-11-05 00:00:00,7.93,Low,Low
+Konasuru,Mysore,12.44805556,76.07111111,2023-11-05 00:00:00,1.9,Low,Low
+Kothanahalli,Mysore,11.925,76.56805556,2023-11-05 00:00:00,4.71,High,Moderate
+Krishnarajanagara,Mysore,12.46666667,76.38333333,2023-11-05 00:00:00,9.04,Moderate,Moderate
+Mayagowdanahalli,Mysore,12.50055556,76.24222222,2023-11-05 00:00:00,8.03,Moderate,Low
+Motha,Mysore,12.09444444,76.47777778,2023-11-05 00:00:00,5.33,No Depletion,Low
+Muguru1,Mysore,12.33611111,76.16111111,2023-11-05 00:00:00,2.96,High,High
+Mullur,Mysore,11.98388889,76.46666667,2023-11-05 00:00:00,10.41,High,High
+Mysore,Mysore,12.3,76.64166667,2023-11-05 00:00:00,11.43,Moderate,Moderate
+Mysore1,Mysore,12.35833333,76.5375,2023-11-05 00:00:00,13.57,Moderate,Low
+P Basavanahalli,Mysore,12.42666667,76.06138889,2023-11-05 00:00:00,4.1,High,High
+Palya,Mysore,12.095,76.66888889,2023-11-05 00:00:00,1.78,Moderate,Moderate
+Punnadahalli Koppalu,Mysore,12.39472222,76.04666667,2023-11-05 00:00:00,7.79,Moderate,Moderate
+Rathnapuri,Mysore,12.23888889,76.34166667,2023-11-05 00:00:00,2.6,Low,Low
+Saragur,Mysore,12.12083333,76.46666667,2023-11-05 00:00:00,4.7,High,Moderate
+Shiriyur,Mysore,12.38222222,76.39416667,2023-11-05 00:00:00,4.78,High,High
+Siddalingapura,Mysore,12.35833333,76.66111111,2023-11-05 00:00:00,2.09,Moderate,Moderate
+Varuna,Mysore,12.26722222,76.74527778,2023-11-05 00:00:00,2.68,No Depletion,Low
+Vidyapitha,Mysore,12.10555556,76.70833333,2023-11-05 00:00:00,3.32,Low,Low

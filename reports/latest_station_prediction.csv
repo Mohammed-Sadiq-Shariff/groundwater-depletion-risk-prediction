@@ -1,0 +1,2 @@
+Station,District,Tehsil,Block,Village,Monitoring Date,Current Groundwater Level (m),Predicted Next Groundwater Level (m),Predicted Groundwater Change (m),Predicted Depletion Risk,No Depletion Probability,Low Probability,Moderate Probability,High Probability
+Mysore,Mysore,MYSORE,MYSORE,Mysore,2024-01-05,12.8,12.360774850029497,-0.439225149970504,No Depletion,34.859802913925506,25.029388272195185,31.266538620297098,8.84427019358222

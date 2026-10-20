@@ -15,3 +15,19 @@ All fields below are **expected, not confirmed**. Actual schemas, units, definit
 
 Additional metadata such as collection method, quality flags, missing-value codes, well depth, and coordinate reference system may be necessary, subject to the acquired data.
 
+## Confirmed concepts from official source documentation
+
+The following are documented by official source pages or reports; they are **not a confirmed final input schema** and do not establish that a field is present in every downloadable file.
+
+| Confirmed concept | Source context | Confirmed detail |
+|---|---|---|
+| Groundwater-level observation date/season | CGWB water-level monitoring | Monitoring is conducted four times yearly: January, April/May, August, and November. |
+| Groundwater level | CGWB water-level monitoring | CGWB publishes historical ground-water-level data; exact file column name, datum, and unit remain TO_BE_CONFIRMED after file inspection. |
+| Annual groundwater recharge | CGWB Dynamic Ground Water Resources of Karnataka 2024 | The assessment reports annual groundwater recharge at taluk assessment-unit level. |
+| Annual extractable groundwater resource | CGWB Dynamic Ground Water Resources of Karnataka 2024 | Reported assessment variable. |
+| Current annual groundwater extraction | CGWB Dynamic Ground Water Resources of Karnataka 2024 | Reported assessment variable. |
+| Stage of groundwater extraction | CGWB Dynamic Ground Water Resources of Karnataka 2024 | Defined as annual extraction divided by annual extractable resource. |
+| Assessment category | CGWB resource assessment | Categories include Safe, Semi-critical, Critical, and Over-exploited. |
+| District rainfall | Karnataka OGD annual-rainfall catalogue | Catalogue describes district-wise annual rainfall in Karnataka; exact resource fields and years remain TO_BE_CONFIRMED after download inspection. |
+
+Source discovery details and limitations are recorded in `docs/data_source_strategy.md` and `data/metadata/source_register.csv`.

@@ -1,0 +1,2 @@
+model,test_records,mae,rmse,r2
+HistGradientBoosting,657,1.9383920495998475,2.956780305413395,0.5468679029939065
